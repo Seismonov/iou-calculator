@@ -14,5 +14,3 @@ Based on:
 3. Drag cursor from top-left to bottom-right to make a rectangle that marks the ground truth. Press 'c' when done.
 4. Drag cursor from top-left to bottom-right to make a rectangle that marks the prediction result. Press 'c' when done.
 5. The IOU result should be printed on cmd/powershell.
-
-Note : make the rectangle from top-left to bottom-right.
